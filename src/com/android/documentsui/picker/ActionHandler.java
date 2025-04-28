@@ -78,7 +78,6 @@ import java.util.Locale;
 import java.util.concurrent.Executor;
 
 import java.util.regex.Pattern;
-import javax.annotation.Nullable;
 
 /**
  * Provides {@link PickActivity} action specializations to fragments.
